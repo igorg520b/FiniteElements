@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Rules for MshLoader" Description="Code analysis rules for MshLoader.csproj." ToolsVersion="14.0" />
